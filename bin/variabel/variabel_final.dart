@@ -16,4 +16,5 @@ melakukan itu kita bisa gunakan kata kunci final:
 final TipeData namaVariable = value;
 */
 
-/* jadi simple nya kala var itu kek bisa kita ubah ubah valuenya , tapi kalau si final itu value nya tetap*/
+/* jadi simple nya kala var itu kek bisa kita ubah ubah valuenya(di deklarasikan ulang) , 
+tapi kalau si final itu tidak bisa di deklarasikan ulang namun nilai dari variabel nya langsungbisa*/
