@@ -1,5 +1,3 @@
-import 'dart:isolate';
-
 void main() {
   final array1 = [1, 2, 3, 4];
   const array2 = [1, 2, 3, 4];
