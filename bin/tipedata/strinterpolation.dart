@@ -6,6 +6,9 @@ void main() {
 
   print(fullName);
 
+  var cihuy = 'aku \'bisa\' \$cyber'; // Ini namanya adalah karakter Bacslash
+  print(cihuy);
+
   /**
    PENJELASAN MENGENAI INI KITA PINDAH KAN KEBUKU YA
    */
