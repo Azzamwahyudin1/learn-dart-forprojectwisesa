@@ -26,7 +26,12 @@ void main() {
   print(hitung);
 
   var longString = ''' 
-  aku adalah seorang larp , aku cuma bisa tidur setiap hari . ingin menjadi root namun enggan sudo''';
+aku adalah seorang larp , aku cuma bisa tidur setiap hari . 
+ingin menjadi root namun 
+enggan sudo
+  ''';
+
+  print(longString);
 
   /**
    PENJELASAN MENGENAI INI KITA PINDAH KAN KEBUKU YA
