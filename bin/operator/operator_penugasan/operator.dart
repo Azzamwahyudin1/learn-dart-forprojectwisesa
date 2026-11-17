@@ -12,4 +12,4 @@ void main() {
   print(asin);
 }
 
-//ini adalah contoh operator penugasan. penjelasan ada di buku
+//operator penugasan sih lebih kayak meringkas
