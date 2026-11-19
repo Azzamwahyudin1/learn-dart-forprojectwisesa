@@ -1,7 +1,10 @@
 void main() {
-  List<bool> listBool = [];
+  List<String> listString = []; //versi 1
 
-  print(listBool);
+  var list = <String>[]; //versi 2
 
-  //ini adalah contoh dari tempat list
+  print(list);
+  print(listString);
+
+  //ini adalah cara membuat lis , ada dua versi dalam membuat list
 }
