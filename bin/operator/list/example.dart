@@ -1,7 +1,7 @@
 void main() {
   List<String> listString = []; //versi 1
 
-  var list = <String>[]; //versi 2
+  var list = <String>[]; //versi 2 .
 
   print(list);
   print(listString);
